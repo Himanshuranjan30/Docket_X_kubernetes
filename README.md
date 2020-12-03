@@ -26,3 +26,6 @@
 
 - `docker start -a conatiner: to start a container already attached to the terminal`
 
+- `docker attach CONTAINER: to attach an already detached container without restarting the container.`
+
+-
